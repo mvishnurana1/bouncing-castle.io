@@ -1,0 +1,20 @@
+.Header{
+    background-color: #F6F6F6; 
+    opacity: 20%; 
+    margin: 0%; 
+    padding: 3%; 
+    text-align: center; 
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+img {
+    width: 200px;
+    float: left;      
+}

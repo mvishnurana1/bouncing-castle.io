@@ -1,0 +1,18 @@
+.Footer{
+    background-color: teal;
+    padding:5%; 
+    margin: 0%; 
+    text-align: center; 
+    color: pink; 
+}
+
+.text-footer {
+    color: pink; 
+    align-self: center; 
+}
+
+.fa:hover {
+    opacity: 0.7;
+    color: pink; 
+}
+

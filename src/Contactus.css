@@ -1,0 +1,62 @@
+label {
+    font-weight: bold; 
+    color: teal;
+}
+
+.contact-form {
+    height: auto; 
+    margin-left: 0; 
+    margin-right: 0; 
+    padding: 2%; 
+    text-align: center; 
+    background-color: pink; 
+}
+
+.text {
+    position: absolute;
+    color: teal; 
+    text-align: center; 
+    z-index:2; 
+    position: absolute; 
+    margin-top: -600px; 
+    margin-left: 500px; 
+}
+
+select, input, textarea {
+    color: teal; 
+    font-size: 1.25em; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+/*
+form{
+    opacity: 1.0;
+    position: relative;
+    height: 400px; 
+}
+
+
+.text-footer{
+    width: 300px; 
+    font-weight:bold; 
+}
+
+input {
+    width: 30%; 
+    margin: 1%; 
+    padding: 2%; 
+}
+
+textarea {
+    width: 30%;
+    resize: vertical; 
+    max-height: 100px; 
+    width: 400px; 
+    height: 300px; 
+}
+
+input, textarea {
+    outline: none; 
+    border: 1 px solid pink; 
+}
+*/
