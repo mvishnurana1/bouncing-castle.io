@@ -4,7 +4,6 @@ import './HeaderFooter.css';
 
 class Headerfooter extends Component{
     render() {
-        //const Tag = `h${this.props.priority}`; 
         return(
             <div className="animated slideInDown">
                 <div className="Header">

@@ -1,9 +1,10 @@
 .Header{
     background-color: #F6F6F6; 
-    opacity: 20%; 
+    opacity: 90%; 
     margin: 0%; 
     padding: 3%; 
     text-align: center; 
+    color: purple; 
 }
 
 .fa {

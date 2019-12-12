@@ -21,7 +21,11 @@
     justify-content: space-evenly; 
     flex-wrap: wrap; 
     margin:2.5%; 
-    
+}
+
+.offer-card-style{
+    display: flex; 
+    justify-content: space-evenly;
 }
 
 .cardImg{

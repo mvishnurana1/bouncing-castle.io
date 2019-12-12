@@ -23,26 +23,28 @@ function App() {
 
       <DocumentBody/>
 
-        <Offercard 
-          title="One day/night"
-          img = {Value}
-          desc = "this is the value text description of the image."
-          price="$50"
-        />
+        <div className="offer-card-style">
+          <Offercard 
+            title="One day/night"
+            img = {Value}
+            desc = "The price is inclusive of the insurance. However, security charges may apply (refundable on return)."
+            price="$50"
+          />
 
-        <Offercard 
-          title="Value pack"
-          img = {midRange}
-          desc = "this is a value pack!"
-          price="$100"
-        />
+          <Offercard 
+            title="Lasts 3 days"
+            img = {midRange}
+            desc = "The price is inclusive of the insurance. However, security charges may apply (refundable on return)."
+            price="$100"
+          />
 
-        <Offercard 
-          title="Premium"
-          img = {premium}
-          desc = "this is a premium pack."
-          price="$195"
-        />
+          <Offercard 
+            title="Lasts a Week"
+            img = {premium}
+            desc = "The price is inclusive of the insurance. However, security charges may apply (refundable on return)."
+            price="$195"
+          />
+        </div>
 
         <Contactus />
 

@@ -4,7 +4,6 @@ import './DocumentBody.css';
 
 class Document extends Component {
     render() {
-        const cls = this.props.className;  
         return (
             <div className="animated fadeInUp Document">
                 <h2>
