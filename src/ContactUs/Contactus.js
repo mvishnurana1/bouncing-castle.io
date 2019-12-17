@@ -76,7 +76,7 @@ class Contactus extends Component{
                     <select className="u-full-width">
                         <option value="General-query">General inquiry</option>
                         <option value="custom-order">Custom Order</option>
-                        <option value="time-waster">Time waster</option>
+                        <option value="time-waster">Feedback</option>
                     </select>
                 </div>
 

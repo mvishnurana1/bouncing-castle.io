@@ -1,5 +1,5 @@
 import React, { Component } from 'react'; 
-import  MojoJoJo from './images/mojo-jojo-villain.png'; 
+import  MojoJoJo from '../images/mojo-jojo-villain.png'; 
 import './HeaderFooter.css';
 
 class Headerfooter extends Component{

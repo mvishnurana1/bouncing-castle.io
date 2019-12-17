@@ -1,16 +1,16 @@
 import React from 'react';
-import HeaderFooter from './HeaderFooter'; 
-import DocumentBody from './DocumentBody'; 
-import Contactus from './Contactus'; 
-import Offercard from './Offercard'; 
-import Footer from './Footer'; 
-import './Footer.css'; 
+import HeaderFooter from './HeaderFooter/HeaderFooter'; 
+import DocumentBody from './DocumentBody/DocumentBody'; 
+import Contactus from './ContactUs/Contactus'; 
+import Offercard from './OfferCard/Offercard'; 
+import Footer from './Footer/Footer'; 
+import './Footer/Footer.css'; 
 import Value from './images/value.jpg'; 
 import midRange from './images/mid-range.jpg'; 
 import premium from './images/premium.jpg'; 
-import './DocumentBody.css'; 
-import './HeaderFooter.css'; 
-import './Contactus.css'; 
+import './DocumentBody/DocumentBody.css'; 
+import './HeaderFooter/HeaderFooter.css'; 
+import './ContactUs/Contactus.css'; 
 
 function App() {
   return (
@@ -47,9 +47,7 @@ function App() {
         </div>
 
         <Contactus />
-
         <Footer />
-
     </div>
   );
 }
